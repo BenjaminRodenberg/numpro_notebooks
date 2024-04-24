@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- jupyterlab=3.2
+- jupyter-offlinenotebook=0.2
+- nodejs=12
+- nbconvert=6
+# Python Kernel
+- ipykernel
+- matplotlib
+- python
+- numpy
+- scipy
